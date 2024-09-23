@@ -2,7 +2,7 @@ Estructura del HTML
 
 Este proyecto está estructurado en varias secciones dentro de un documento HTML.
 
-1. Header y Navegación ("<nav>"):
+1.Header y Navegación ("<nav>"):
    - Se utiliza una barra de navegación (navbar) expandible en pantallas grandes con la clase "navbar-expand-lg" y se estiliza utilizando las clases de Bootstrap.
    - La clase "navbar-toggler" permite que el menú de navegación se colapse en pantallas pequeñas, mejorando la experiencia en mobile.
    - Clases utilizadas: "navbar", "navbar-expand-lg", "navbar-brand", "navbar-toggler", "nav-item", "nav-link".
